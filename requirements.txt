@@ -1,7 +1,6 @@
 streamlit
 streamlit_option_menu
 streamlit_folium
-folium_plugins 
 pyTigerGraph
 branca
 folium
