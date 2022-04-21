@@ -4,5 +4,4 @@ streamlit_folium
 pyTigerGraph
 branca
 folium
-random
 plotly
